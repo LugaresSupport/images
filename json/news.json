@@ -1,0 +1,16 @@
+{
+    "news": [
+        {
+            "url":"https://www.reportur.com/colombia/2023/06/27/natalia-bayona-primera-colombiana-en-dirigir-la-omt/",
+            "url_img":"https://www.reportur.com/wp-content/uploads/2023/06/natalia-bayona-1.jpg",
+            "title":"Natalia Bayona: primera colombiana en dirigir la OMT",
+            "autor":"Reportur"
+        },
+        {
+            "url":"https://www.wradio.com.co/2023/05/03/crisis-en-turismo-del-choco-a-pesar-de-temporada-de-ballenas/",
+            "url_img":"https://www.wradio.com.co/resizer/YnV_hxtzjPqv0fzfplKlmwn64zs=/768x576/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/prisaradioco/W72VM52UNVFHXAUQ3D2FYTODSU.jpg",
+            "title":"Crisis en turismo del Chocó, a pesar de temporada de ballenas",
+            "autor":"W Radio Colombia"
+        }
+    ]
+}

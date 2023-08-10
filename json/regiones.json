@@ -1,0 +1,24 @@
+{
+    "regions":[
+        {
+            "link":"destinos/region-pacifica.html",
+            "img":"https://github.com/LugaresSupport/images/blob/main/_DSC1628%20Bahia%20Solano%20Cortesia%20ProColombia.JPG?raw=true",
+            "title":"Región Pacífica"
+        },
+        {
+            "link":"destinos/region-andina.html",
+            "img":"https://github.com/LugaresSupport/images/blob/main/_DSC9272%20Chicamocha%20Santander%20Cortes%C3%ADa%20ProColombia.JPG?raw=true",
+            "title":"Región Andina"
+        },
+        {
+            "link":"destinos/region-caribe.html",
+            "img":"https://github.com/LugaresSupport/images/blob/main/_DSC5209%20Barranquilla%20Cortes%C3%ADa%20ProColombia.jpg?raw=true",
+            "title":"Región Caribe"
+        },
+        {
+            "link":"destinos/region-amazonia.html",
+            "img":"https://github.com/LugaresSupport/images/blob/main/Amazonas%2016%20Cortesia%20ProColombia.jpg?raw=true",
+            "title":"Región Amazonía"
+        }
+    ]
+}
